@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nbt-explorer/static/css/main.9559e866.chunk.css",
+    "main.js": "/nbt-explorer/static/js/main.4281e4e2.chunk.js",
+    "main.js.map": "/nbt-explorer/static/js/main.4281e4e2.chunk.js.map",
+    "runtime-main.js": "/nbt-explorer/static/js/runtime-main.d3a27c02.js",
+    "runtime-main.js.map": "/nbt-explorer/static/js/runtime-main.d3a27c02.js.map",
+    "static/js/2.373c1c70.chunk.js": "/nbt-explorer/static/js/2.373c1c70.chunk.js",
+    "static/js/2.373c1c70.chunk.js.map": "/nbt-explorer/static/js/2.373c1c70.chunk.js.map",
+    "index.html": "/nbt-explorer/index.html",
+    "precache-manifest.51f9301c367cea643467f3dbfb37f711.js": "/nbt-explorer/precache-manifest.51f9301c367cea643467f3dbfb37f711.js",
+    "service-worker.js": "/nbt-explorer/service-worker.js",
+    "static/css/main.9559e866.chunk.css.map": "/nbt-explorer/static/css/main.9559e866.chunk.css.map",
+    "static/js/2.373c1c70.chunk.js.LICENSE.txt": "/nbt-explorer/static/js/2.373c1c70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3a27c02.js",
+    "static/js/2.373c1c70.chunk.js",
+    "static/css/main.9559e866.chunk.css",
+    "static/js/main.4281e4e2.chunk.js"
+  ]
+}
